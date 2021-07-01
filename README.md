@@ -38,7 +38,7 @@ I added the simple extra functionality of disallowing the user from adding a bla
 
 ## License
 
-    Copyright [2021] [Meghan Lin]
+    Copyright 2021 Meghan Lin
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
